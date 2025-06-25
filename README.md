@@ -55,7 +55,7 @@ Her kullanıcının hizmet alma davranışı aylık bazda bir 'sepet' olarak mod
 
 - **İşlemsel Modelleme**: Kullanıcı bazında aylık sepetler oluşturulur.
 - **Hizmet Kodlama**: Her hizmet `ServiceId_CategoryId` şeklinde tanımlanır.
-- **Kural Çıkarımı**: Destek ve lift eşiklerine göre birliktelik kuralları üretilir.
+- **Kural Çıkarımı**: Support ve lift eşiklerine göre birliktelik kuralları üretilir.
 - **Öneri Fonksiyonu**: Belirli bir hizmete karşılık gelen en anlamlı önerileri sunar.
 
 ## 🗂 Proje Yapısı
